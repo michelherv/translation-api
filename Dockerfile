@@ -4,11 +4,11 @@ FROM node:6
 # replace this with your application's default port
 EXPOSE 3000
 
-# copy the files into image
-COPY . /home/node
-
 # set the current dir
 WORKDIR /home/node
+
+# copy the files into image
+COPY . .
 
 # download dependencies
 RUN [ "yarn" ]
