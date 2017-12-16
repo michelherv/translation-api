@@ -2,7 +2,7 @@ module.exports = [
     {
         "id": "group-01",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 01",
@@ -10,7 +10,7 @@ module.exports = [
     }, {
         "id": "group-02",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 02",
@@ -18,7 +18,7 @@ module.exports = [
     }, {
         "id": "group-03",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 03",
@@ -26,7 +26,7 @@ module.exports = [
     }, {
         "id": "group-04",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 04",
@@ -34,7 +34,7 @@ module.exports = [
     }, {
         "id": "group-05",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 05",
@@ -42,7 +42,7 @@ module.exports = [
     }, {
         "id": "group-06",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 06",
@@ -50,7 +50,7 @@ module.exports = [
     }, {
         "id": "group-07",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 07",
@@ -58,7 +58,7 @@ module.exports = [
     }, {
         "id": "group-08",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 08",
@@ -66,7 +66,7 @@ module.exports = [
     }, {
         "id": "group-09",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 09",
@@ -74,7 +74,7 @@ module.exports = [
     }, {
         "id": "group-10",
         "createdDate": "2017-12-25T10:10:10+0000",
-        "createBy": "mike-mike",
+        "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
         "name": "Group 10",
