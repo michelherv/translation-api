@@ -1,5 +1,5 @@
 {
-  "port": 3000,
-  "delay": 5000,
+  "port": 4201,
+  "delay": 250,
   "read-only": false
 }

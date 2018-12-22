@@ -5,7 +5,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 01",
+        "name": "Groupe 01",
         "project": "project-01"
     }, {
         "id": "group-02",
@@ -13,7 +13,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 02",
+        "name": "Groupe 02",
         "project": "project-01"
     }, {
         "id": "group-03",
@@ -21,7 +21,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 03",
+        "name": "Groupe 03",
         "project": "project-01"
     }, {
         "id": "group-04",
@@ -29,7 +29,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 04",
+        "name": "Groupe 04",
         "project": "project-01"
     }, {
         "id": "group-05",
@@ -37,7 +37,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 05",
+        "name": "Groupe 05",
         "project": "project-02"
     }, {
         "id": "group-06",
@@ -45,7 +45,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 06",
+        "name": "Groupe 06",
         "project": "project-02"
     }, {
         "id": "group-07",
@@ -53,7 +53,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 07",
+        "name": "Groupe 07",
         "project": "project-02"
     }, {
         "id": "group-08",
@@ -61,7 +61,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 08",
+        "name": "Groupe 08",
         "project": "project-03"
     }, {
         "id": "group-09",
@@ -69,7 +69,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 09",
+        "name": "Groupe 09",
         "project": "project-03"
     }, {
         "id": "group-10",
@@ -77,7 +77,7 @@ module.exports = [
         "createdBy": "mike-mike",
         "lastModifiedDate": "2017-12-25T11:11:11+0000",
         "lastModifiedBy": "miky-mike",
-        "name": "Group 10",
+        "name": "Groupe 10",
         "project": "project-04"
     }
 ];
