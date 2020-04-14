@@ -1,5 +1,6 @@
 {
-  "port": 4201,
+  "host": "0.0.0.0",
+  "port": 3000,
   "delay": 250,
   "read-only": false
 }
